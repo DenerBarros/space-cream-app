@@ -1,6 +1,6 @@
 🚀 Rocketseat's Explorer Course Documentation 📁
 
-Stage 03 - Desafio 7:Criando Layout responsivo📅 20.04.2022
+Stage 03 - Desafio 7:Criando Layout responsivo📅 24-08-2022
 
 🕛 Status: Finished ✔️
 
